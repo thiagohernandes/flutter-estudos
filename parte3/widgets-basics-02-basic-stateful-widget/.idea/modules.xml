@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/widgets-basics-02-basic-stateful-widget.iml" filepath="$PROJECT_DIR$/widgets-basics-02-basic-stateful-widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widgets-basics-02-basic-stateful-widget.iml" filepath="$PROJECT_DIR$/widgets-basics-02-basic-stateful-widget.iml" group="widgets-basics-02-basic-stateful-widget" />
     </modules>
   </component>
 </project>
