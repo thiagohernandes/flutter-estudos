@@ -1,0 +1,1373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="126ad445-7c34-46f6-8ce5-caafa3cfd137" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/5.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/java/flutterdomain/flutter_app_battery/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_app_battery/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/java/flutterdomain/flutter_firebase/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_firebase/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/java/flutterdomain/flutter_grid_list/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_grid_list/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/java/flutterdomain/flutter_horizontal_list/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_horizontal_list/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/java/flutterdomain/flutter_json/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_json/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/java/com/packt/flutter_layout/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/assets/LeckerliOne-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/assets/beach.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/assets/dog.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/assets/textiles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/assets/woman_shopping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/basic_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/deep_tree.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/e_commerce_screen_after.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/e_commerce_screen_before.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/flex_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/immutable_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/profile_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/star.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/lib/text_layout.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_layout/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/java/flutterdomain/flutter_list_widget/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_list_widget/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/java/flutterdomain/flutter_listview_builder/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_builder/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/5.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/java/flutterdomain/flutter_listview_data_source/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_data_source/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/java/flutterdomain/flutter_listview_seperator/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_listview_seperator/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/java/flutterdomain/flutter_locale/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_locale/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/5.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/java/flutterdomain/flutter_url/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/flutter_url/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/kotlin/com/example/hello_modern_languages/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/hello_modern_languages/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/java/com/packt/master_plan/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/lib/models/data_layer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/lib/models/plan.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/lib/models/task.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/lib/views/plan_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/master_plan/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/java/com/stateful_page/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/lib/stateful_page.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stateful_page/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/java/com/packt/interactivity_and_state/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/lib/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/lib/platform_alert.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/lib/stopwatch.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte2/stopwatch/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/5.4.1/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/5.4.1/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/5.4.1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/assets/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/build/last_build_run.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/java/com/example/lib/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/generated/i18n.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/product_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/lib/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-02-basic-stateful-widget/widgets-basics-02-basic-stateful-widget.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-03-split-code-across-files/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-03-split-code-across-files/assets/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-03-split-code-across-files/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-03-split-code-across-files/lib/product_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-03-split-code-across-files/lib/products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-03-split-code-across-files/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/4.10.3/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/4.10.3/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/caches/build_file_checksums.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/caches/gradle_models.ser" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/runConfigurations.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/assets/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/build/last_build_run.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/java/com/example/lib/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/product_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/lib/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/res/values/strings_en.arb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-04-pass-data/widgets-basics-04-pass-data.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-05-lifecycle/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-05-lifecycle/assets/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-05-lifecycle/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-05-lifecycle/lib/product_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-05-lifecycle/lib/products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-05-lifecycle/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-06-named-arguments/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-06-named-arguments/assets/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-06-named-arguments/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-06-named-arguments/lib/product_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-06-named-arguments/lib/products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-06-named-arguments/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-07-function-communication/README.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-07-function-communication/assets/food.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-07-function-communication/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-07-function-communication/lib/product_control.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-07-function-communication/lib/product_manager.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-07-function-communication/lib/products.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../parte3/widgets-basics-07-function-communication/pubspec.yaml" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Compat_vel_API_29" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" />
+        <option value="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="15" />
+    <option name="y" value="30" />
+    <option name="width" value="1890" />
+    <option name="height" value="975" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lists-04-if-and-build-method" type="1abcf292:AndroidViewProjectNode" />
+              <item name="lists-04-if-and-build-method" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lists-04-if-and-build-method" type="1abcf292:AndroidViewProjectNode" />
+              <item name="lists-04-if-and-build-method" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../../../AndroidSDK" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="126ad445-7c34-46f6-8ce5-caafa3cfd137" name="Default Changelist" comment="" />
+      <created>1567184643731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567184643731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32955465" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Run" weight="0.32867134" />
+      <window_info anchor="bottom" id="Dart Analysis" weight="0.32867134" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Flutter Performance" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32867134" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
